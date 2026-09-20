@@ -9,7 +9,7 @@ This is a tool for tracking someone
 $ apt update
 $ apt upgrade
 $ pkg install git
-$ pkg install python
+$ pkg install pythonrdde
 $ pkg install python3
 $ git clone https://github.com/Whomrx666/Xtracking.git
 $ cd Xtracking 
